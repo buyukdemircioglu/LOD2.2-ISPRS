@@ -2,8 +2,6 @@
 
 ## Link to paper : ----
 
-### True Orthophoto (95% validation accuracy)
-![alt text](trueop.png)
+### Comparison
+![alt text](comparison.png)
 
-### True Orthophoto + nDSM (97.3% validation accuracy)
-![alt text](ndsm.png)
